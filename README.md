@@ -10,6 +10,6 @@
 
 * Predicted clusters using the cryptocurrencies data using the `KMeans` algorithm from `sklearn`.
 
-* Created plots and data tables to present results using hvplot, plotly, and matplotlib.
+* Created plots and data tables to present results using `hvplot`, `plotly`, and `matplotlib`.
 
-* Deployed notebook to Amazon SageMaker.
+* Deployed notebook to `Amazon SageMaker`.
